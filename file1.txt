@@ -3,3 +3,6 @@ commit test 4
 
 123
 Add line
+
+
+i added conflict
