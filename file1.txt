@@ -6,3 +6,4 @@ Add line
 
 
 i added conflict
+new branch line
