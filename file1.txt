@@ -1,9 +1,11 @@
 0000000
 commit test 4
 
-123
+new edit 12 for gui
 Add line
 
 
 i added conflict
 new branch line
+
+new line for GUI
